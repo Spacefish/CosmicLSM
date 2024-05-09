@@ -1,0 +1,10 @@
+Linear Regulator is Charger?
+TP4057
+
+ADC of ESP32-C6 can handle up to 3.3V? not so many resistors in divider?
+
+Buck Converter Videos
+https://youtu.be/AmfLhT5SntE?si=4FmoGu-mIsfJSKGR
+https://youtu.be/FqT_Ofd54fo?si=Bg1QQB2FCHhWH2Q4
+
+use larger inductance (4.7uH) for VBAT -> 3.3V buck to make it more efficient / source part better?
