@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CosmicLSMSymbols")(type "KiCad")(uri "${KIPRJMOD}/Data/CosmicLSM_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "boot_button")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Data/boot_button.elibz")(options "")(descr ""))
+  (lib (name "power_switch")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Data/power_switch.elibz")(options "")(descr ""))
+  (lib (name "usb_c_connector")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Data/usb_c_connector.elibz")(options "")(descr ""))
+  (lib (name "3_3v_coil")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/Data/3_3v_coil.elibz")(options "")(descr ""))
+)
